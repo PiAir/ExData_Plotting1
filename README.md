@@ -1,3 +1,36 @@
+## Additional Instructions for Course Project 1
+
+The repository contains 5 and not 4 R-files.
+All code to download the Zip from the web, read the file,
+and to create the subset for the data frame has been combined
+in a single file that is referenced by the 4 plot files.
+
+These are the resulting plots:
+
+### Plot 1
+
+
+![plot 1](figure/plot1.png) 
+
+
+### Plot 2
+
+![plot 2](figure/plot2.png) 
+
+
+### Plot 3
+
+![plot 3](figure/plot3.png) 
+
+
+### Plot 4
+
+![plot 4](figure/plot4.png) 
+
+All files are also present in the figure folder of the repository.
+Below are the original instructions:
+
+
 ## Introduction
 
 This assignment uses data from
